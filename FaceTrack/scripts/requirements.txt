@@ -1,0 +1,7 @@
+opencv-python
+mediapipe
+numpy
+scikit-learn
+python-dotenv
+requests
+supabase
